@@ -1,0 +1,6 @@
+interface:
+  display_name: "Academic Paper Audit"
+  short_description: "Independent evidence-based manuscript audit"
+  default_prompt: "Independently audit this frozen academic manuscript. Review the manuscript first, then cross-check the Pre-writing Dossier and original evidence, including unsupported claim weakening and defensive caveats. Do not edit the manuscript; produce a separate Audit Report."
+policy:
+  allow_implicit_invocation: false

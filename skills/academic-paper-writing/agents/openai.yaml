@@ -1,0 +1,6 @@
+interface:
+  display_name: "Academic Paper Writing"
+  short_description: "Research-grounded scholarly writing"
+  default_prompt: "Plan or draft an academic paper. Review the research materials first, build a Pre-writing Dossier, and obtain outline approval before full drafting. Preserve evidence-supported claim strength; do not add unsupported caveats or weaken claims to pre-empt hypothetical reviewers."
+policy:
+  allow_implicit_invocation: true
